@@ -9,7 +9,7 @@ thanks for "bell" sound to Mike Osborn from "Arduino for Model Railroading" grou
 video (english version): https://youtu.be/5pZ8F5QosRs
 
 
-![video2](https://i9.ytimg.com/vi/5pZ8F5QosRs/mq2.jpg?sqp=CMCh2JEG&rs=AOn4CLDiY1-d_Sd7YBwhP5QBCMa7fGpXZQ)
+![video2](https://i9.ytimg.com/vi/5pZ8F5QosRs/mq3.jpg?sqp=CMCh2JEG&rs=AOn4CLB9MloxNdRRxGrx1XKE2PZNLu-9vQ)
 video (versiune romana): https://youtu.be/1KDRj2pd72s
 
 
