@@ -5,7 +5,11 @@ thanks for "bell" sound to Mike Osborn from "Arduino for Model Railroading" grou
 
 ![schematic_leds_on](https://github.com/tehniq3/Railway_Crossing_2/blob/main/Railway_crossing_servo_bell_button_schematic_2.PNG)
 
+![video](https://i9.ytimg.com/vi/1KDRj2pd72s/mq2.jpg?sqp=CMCh2JEG&rs=AOn4CLAN6w0vJ3QYZvaRTDqlAUS6-u4b5g)
+
+
 video (english version): https://youtu.be/5pZ8F5QosRs
+
 
 video (versiune romana): https://youtu.be/1KDRj2pd72s
 
